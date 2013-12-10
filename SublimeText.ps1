@@ -12,4 +12,4 @@ If ($path.Contains($subl)) {
     echo "Added subl.exe to path";
 }
 
-// Save Preferences.sublime-settings to %AppData%\Roaming\Sublime Text 3\Packages\User
+# Save Preferences.sublime-settings to %AppData%\Roaming\Sublime Text 3\Packages\User
