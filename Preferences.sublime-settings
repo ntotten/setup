@@ -1,14 +1,11 @@
 {
-	"ignored_packages":
-	[
-		"Vintage"
-	],
-	"hot_exit": false,
-	"remember_open_files": false,
-	
-	// The number of spaces a tab is considered equal to
-    	"tab_size": 4,
-
-    	// Set to true to insert spaces when tab is pressed
-    	"translate_tabs_to_spaces": false
+  "font_size": 13,
+  "hot_exit": false,
+  "ignored_packages": [
+    "Vintage"
+  ],
+  "remember_open_files": false,
+  "tab_size": 2,
+  "translate_tabs_to_spaces": false,
+  "word_wrap": "auto"
 }
