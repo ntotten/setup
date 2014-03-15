@@ -7,8 +7,8 @@
 	"remember_open_files": false,
 	
 	// The number of spaces a tab is considered equal to
-    	"tab_size": 4,
+	"tab_size": 2,
 
-    	// Set to true to insert spaces when tab is pressed
-    	"translate_tabs_to_spaces": false
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": false
 }
