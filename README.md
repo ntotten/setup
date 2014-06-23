@@ -9,12 +9,12 @@ System setup scripts and tools
 * App Store > Purchases > Install
 * Chrome
 * Sublime Text 3
-* ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
-* brew doctor
-* brew install git
-* ln -s /Applications/Sublime\ Text\.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
-* open ~/.bash_profile
-* Save Bash Profile (Below)
+* Terminal:
+  * ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"
+  * brew doctor
+  * brew install git
+  * ln -s /Applications/Sublime\ Text\.app/Contents/SharedSupport/bin/subl /usr/local/bin/subl
+  * open ~/.bash_profile
 * Enable FileVault
 * Enable Firewall
 * Disable Guest Account
