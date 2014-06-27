@@ -1,0 +1,20 @@
+[credential]
+	helper = !'C:\\Users\\ntotten\\AppData\\Roaming\\GitCredStore\\git-credential-winstore.exe'
+[user]
+	name = Nathan Totten
+	email = ntotten@microsoft.com
+[core]
+	autocrlf = true
+	editor = subl -n -w
+[gui]
+	diffopts = --ignore-space-change
+[diff]
+	tool = bc2
+[difftool "bc2"]
+	cmd = \"C:/Program Files (x86)/Beyond Compare 2/BC2.exe\" \"$LOCAL\" \"$REMOTE\"
+[difftool]
+	prompt = false
+[merge]
+	tool = bc2
+[mergetool "bc2"]
+	cmd = \"C:/Program Files (x86)/Beyond Compare 2/BC2.exe\" \"$LOCAL\" \"$REMOTE\"  \"$BASE\"
